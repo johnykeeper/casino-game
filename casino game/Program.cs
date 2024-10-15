@@ -41,7 +41,7 @@ namespace casino_game
                 if (answer == 1)
                     Console.WriteLine("the answer was heads");
                 else
-                    Console.WriteLine("qthe answer was tails");
+                    Console.WriteLine("the answer was tails");
 
 
                 if (guess == answer)
